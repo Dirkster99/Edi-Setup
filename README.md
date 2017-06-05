@@ -1,5 +1,5 @@
 # Edi-Setup
-Holds all necessary files to build an Edi (https://github.com/Dirkster99/Edi) setup via WiX tool set.
+Holds all necessary files to build an Edi https://github.com/Dirkster99/Edi setup via WiX tool set.
 
 Download all batch files in this folder into the same folder as the source files from the Edi project.
 
